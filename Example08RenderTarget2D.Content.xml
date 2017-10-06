@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentProject>
+  <Name>Example08RenderTarget2D.Content</Name>
+  <InputDirectory>Example08RenderTarget2D.Content</InputDirectory>
+  <OutputDirectory>bin</OutputDirectory>
+  <ContentRootDirectory></ContentRootDirectory>
+  <Configuration>Release</Configuration>
+  <TargetPlatform>Windows</TargetPlatform>
+  <References>
+  </References>
+  <Items>
+  </Items>
+</ContentProject>
