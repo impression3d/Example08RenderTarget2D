@@ -9,5 +9,13 @@
   <References>
   </References>
   <Items>
+    <Item Include="\Models\Tank\tank.fbx">
+      <Name>tank</Name>
+      <BuildAction>Compile</BuildAction>
+      <Importer Name="OpenAssetImporter" />
+      <Processor Name="ModelProcessor">
+        <TextureFormat>Compressed</TextureFormat>
+      </Processor>
+    </Item>
   </Items>
 </ContentProject>
